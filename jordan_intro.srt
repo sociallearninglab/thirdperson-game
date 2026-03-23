@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:06,960
+Welcome to my game. In this game, I'll tell you a story about a child named Jordan.
+
+2
+00:00:07,760 --> 00:00:14,480
+Jordan is a child just like you. Yesterday, Jordan was playing a card game with me,
+
+3
+00:00:15,120 --> 00:00:20,560
+and I want to tell you about what happened. Click the green button to continue.
+

@@ -1,0 +1,3 @@
+See? The cards were flipped over, and now Jordan couldn't tell which ones are star cards,
+because they looked just like the other cards.
+Now Jordan wants to find all three star cards.

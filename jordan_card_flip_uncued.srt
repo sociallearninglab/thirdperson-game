@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:06,720
+See? The cards were flipped over, and now Jordan couldn't tell which ones are star cards,
+
+2
+00:00:06,720 --> 00:00:09,920
+because they looked just like the other cards.
+
+3
+00:00:09,920 --> 00:00:13,360
+Now Jordan wants to find all three star cards.
+
