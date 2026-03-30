@@ -1,0 +1,110 @@
+Welcome screen
+
+First screen after starting
+
+Webcam Setup, Consent
+
+
+
+
+Intro
+
+PLACEHOLDER – positioning screen
+Welcome to my game! In this game, I’ll tell you a story about a child named Jordan. Jordan is a child just like you. 
+
+Yesterday, Jordan was playing a card game with me. And I want to tell you about what happened!
+
+Click the GREEN button to get started!
+
+So Jordan was playing a card game that looks like this.
+
+See all these cards?
+
+There are MANY cards here, but only THREE of these cards have a STAR.
+
+And in this game, Jordan had to find ALL THREE star cards!
+
+Attention check
+
+Okay! Remind me: which cards did Jordan have to find? Cards with a star like THIS [left card is highlighted]? Or cards WITHOUT a star, like THIS [right card is highlighted]?
+
+That’s right! Jordan had to find these STAR cards. Click the GREEN button to continue!
+
+Cards flip
+
+Then, all the cards were flipped over, so that Jordan couldn’t see the star cards anymore. So Jordan had to remember where the star cards are.
+
+[cards are flipped]
+
+Surprising condition
+See? The cards were flipped over, and now Jordan COULDN’T tell which ones are STAR cards, because they looked just like the other cards! And Jordan had to find all three STARS.
+
+Unsurprising condition
+See? The cards were flipped over, and Jordan could still see which ones are STAR cards, because they had these markers on their back! [flash markers]
+
+And Jordan had to find all three STARS.
+
+Continue
+
+Surprising condition
+Jordan thought really hard about which cards have STARS and chose three cards! Press the green button to continue!
+
+Unsurprising condition
+Jordan thought really hard about which cards have STARS and chose three cards! Press the green button to continue!
+
+Questions
+
+Surprising condition
+Now, before we continue with the story and look at how Jordan did, I have a question for you!
+
+Prediction
+
+ [scale with 3 cards, 2 cards, 1 card, no card appears]
+
+So Jordan chose 3 cards! How many stars do you think Jordan got? Do you think Jordan got 3 stars, 2 stars, 1 star, or no stars?
+
+[COUNTERBALANCE]
+
+[audio plays when child clicks on corresponding option:]
+Three stars
+Two stars
+One star
+No stars
+
+Okay! Press the GREEN button to see how Jordan did!
+
+Look! Jordan chose 3 cards and all 3 cards have stars!
+
+Surprise
+
+[scale with faces appears]
+
+Can you tell me, are you SURPRISED or are you NOT surprised that ALL THREE cards Jordan chose are stars?
+
+[Depending on choice:]
+NOT surprised
+Surprised
+
+If “surprised”
+[scale with faces appears]
+
+I see—you’re SURPRISED! Are you A LITTLE surprised, PRETTY surprised, or VERY surprised that ALL THREE cards Jordan chose are stars?
+
+[audio plays when child clicks on corresponding option:]
+“A little surprised”
+“Pretty surprised”
+“Very surprised”
+
+And can you tell me, why are you [NOT/A LITTLE/PRETTY/VERY] surprised? Say your answer out loud!
+
+FIRST PERSON TASK - can keep it the same for now, will prune later
+
+PLACEHOLDER – positioning screen
+Great job, we’re all done! Thank you for playing my game with me–I hope you had fun!
+
+[Jordan: Bye!]
+
+Exit survey / debrief
+
+
+
